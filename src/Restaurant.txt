@@ -1,0 +1,4 @@
+1. Transparent navbar
+2. Togglable
+3. Display icons on the corner bottom of the main page
+4. Display large text on the center
